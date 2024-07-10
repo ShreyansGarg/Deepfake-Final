@@ -24,7 +24,7 @@ With the increasing prevalence of AI-generated media, the need for robust detect
   - Convolutional layers with ReLU activation
   - Batch Normalization
   - Dropout layers for regularization
-- **Classification**: The model classifies audio clips into real or fake categories.
+- **Accuracy**: The model achieved an accuracy of 85%.
 
 ## Results
 Both models have shown high accuracy in their respective tasks, demonstrating the effectiveness of the preprocessing techniques and the custom CNN architectures in detecting AI-generated media.
@@ -35,7 +35,11 @@ Both models have shown high accuracy in their respective tasks, demonstrating th
 
 ## Contributors
 - [Shreyans Garg](https://github.com/ShreyansGarg)
-- [Contributor Name](https://github.com/contributor-github-username)
+- [Mahua Singh](https://github.com/S-Mahua)
+- [Vishal Chaudhary](https://github.com/cvishal-19)
+- [Malabh Bakshi](https://github.com/Malabh)
 
 ## Deployment
 Both detectors are deployed on Streamlit, providing an easy-to-use web interface for real-time detection.
+- [Image](https://deepfake-detection-using-cnns.streamlit.app/)
+- [Audio](https://deepfake-audio-detection.streamlit.app/)
