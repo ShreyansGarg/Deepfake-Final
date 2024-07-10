@@ -30,7 +30,7 @@ With the increasing prevalence of AI-generated media, the need for robust detect
 Both models have shown high accuracy in their respective tasks, demonstrating the effectiveness of the preprocessing techniques and the custom CNN architectures in detecting AI-generated media.
 
 ## Datasets Used
-- **Image Dataset**: A collection of real and GAN-generated images, preprocessed with Gaussian noise and blur.
+- **Image Dataset**: The dataset which we used for this project is “140k Real and Fake Faces” from Kaggle [[Dataset Link](https://www.kaggle.com/xhlulu/140k-real-and-fake-faces)]
 - **Audio Dataset**: 2-second clips of real and AI-generated audio, transformed into spectrograms.
 
 ## Contributors
